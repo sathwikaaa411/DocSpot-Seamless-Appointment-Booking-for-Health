@@ -7,3 +7,23 @@ Team Project | Repository maintained by team lead
 - Integrated frontend UI components
 - Collaborated using Git & GitHub for version control
 **Technologies Used:** React, Node.js, Express, MongoDB, HTML, CSS, JavaScript
+## Features
+- Doctor appointment booking
+- User authentication
+- Appointment scheduling system
+- Responsive frontend UI
+- Real-time doctor availability
+- MongoDB database integration
+## Tech Stack
+### Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
+### Backend
+- Node.js
+- Express.js
+### Database
+- MongoDB
+## Author
+K. Sai Sathwika
